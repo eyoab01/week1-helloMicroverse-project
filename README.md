@@ -20,7 +20,7 @@
 
 
 ## Authors
-Tesfaye Teklu Feyissa
+Tesfaye Teklu
 👤 ****
 
 - GitHub: [@githubhandle](https://github.com/eyoab01)
